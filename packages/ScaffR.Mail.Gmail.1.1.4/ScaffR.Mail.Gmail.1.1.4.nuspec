@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>ScaffR.Mail.Gmail</id>
+    <version>1.1.4</version>
+    <title>ScaffR.Mail.Gmail</title>
+    <authors>Rod Johnson</authors>
+    <owners>Rod Johnson</owners>
+    <projectUrl>https://www.github.com/wcpro/scaffeine</projectUrl>
+    <iconUrl>http://www.scaffr.com/favicon.ico</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Description required.</description>
+    <releaseNotes />
+    <copyright>ScaffR, 2012</copyright>
+    <language />
+  </metadata>
+</package>

@@ -1,0 +1,227 @@
+C:\Users\Egeo\Documents\Visual Studio 2012\Projects\WindowsFormsApplication24\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\Egeo\Documents\Visual Studio 2012\Projects\WindowsFormsApplication24\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\Egeo\Documents\Visual Studio 2012\Projects\WindowsFormsApplication24\bin\Debug\WindowsFormsApplication24.exe.config
+C:\Users\Egeo\Documents\Visual Studio 2012\Projects\WindowsFormsApplication24\bin\Debug\WindowsFormsApplication24.exe
+C:\Users\Egeo\Documents\Visual Studio 2012\Projects\WindowsFormsApplication24\bin\Debug\WindowsFormsApplication24.pdb
+C:\Users\Egeo\Documents\Visual Studio 2012\Projects\WindowsFormsApplication24\bin\Debug\System.Data.SQLite.dll
+C:\Users\Egeo\Documents\Visual Studio 2012\Projects\WindowsFormsApplication24\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Egeo\Documents\Visual Studio 2012\Projects\WindowsFormsApplication24\obj\Debug\WindowsFormsApplication24.Form1.resources
+C:\Users\Egeo\Documents\Visual Studio 2012\Projects\WindowsFormsApplication24\obj\Debug\WindowsFormsApplication24.Properties.Resources.resources
+C:\Users\Egeo\Documents\Visual Studio 2012\Projects\WindowsFormsApplication24\obj\Debug\WindowsFormsApplication24.csproj.GenerateResource.Cache
+C:\Users\Egeo\Documents\Visual Studio 2012\Projects\WindowsFormsApplication24\obj\Debug\WindowsFormsApplication24.exe
+C:\Users\Egeo\Documents\Visual Studio 2012\Projects\WindowsFormsApplication24\obj\Debug\WindowsFormsApplication24.pdb
+C:\Users\Egeo\Documents\Visual Studio 2012\Projects\IniziamoDaqui\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\Egeo\Documents\Visual Studio 2012\Projects\IniziamoDaqui\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\Egeo\Documents\Visual Studio 2012\Projects\IniziamoDaqui\bin\Debug\WindowsFormsApplication24.exe.config
+C:\Users\Egeo\Documents\Visual Studio 2012\Projects\IniziamoDaqui\bin\Debug\WindowsFormsApplication24.exe
+C:\Users\Egeo\Documents\Visual Studio 2012\Projects\IniziamoDaqui\bin\Debug\WindowsFormsApplication24.pdb
+C:\Users\Egeo\Documents\Visual Studio 2012\Projects\IniziamoDaqui\bin\Debug\System.Data.SQLite.dll
+C:\Users\Egeo\Documents\Visual Studio 2012\Projects\IniziamoDaqui\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Egeo\Documents\Visual Studio 2012\Projects\IniziamoDaqui\obj\Debug\WindowsFormsApplication24.Form1.resources
+C:\Users\Egeo\Documents\Visual Studio 2012\Projects\IniziamoDaqui\obj\Debug\WindowsFormsApplication24.Form2.resources
+C:\Users\Egeo\Documents\Visual Studio 2012\Projects\IniziamoDaqui\obj\Debug\WindowsFormsApplication24.Form3.resources
+C:\Users\Egeo\Documents\Visual Studio 2012\Projects\IniziamoDaqui\obj\Debug\WindowsFormsApplication24.Properties.Resources.resources
+C:\Users\Egeo\Documents\Visual Studio 2012\Projects\IniziamoDaqui\obj\Debug\WindowsFormsApplication24.csproj.GenerateResource.Cache
+C:\Users\Egeo\Documents\Visual Studio 2012\Projects\IniziamoDaqui\obj\Debug\WindowsFormsApplication24.exe
+C:\Users\Egeo\Documents\Visual Studio 2012\Projects\IniziamoDaqui\obj\Debug\WindowsFormsApplication24.pdb
+C:\Users\Egeo\Desktop\Backup Perfetto\GestioneCliente v0.2\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\Egeo\Desktop\Backup Perfetto\GestioneCliente v0.2\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\Egeo\Desktop\Backup Perfetto\GestioneCliente v0.2\bin\Debug\WindowsFormsApplication24.exe.config
+C:\Users\Egeo\Desktop\Backup Perfetto\GestioneCliente v0.2\bin\Debug\WindowsFormsApplication24.exe
+C:\Users\Egeo\Desktop\Backup Perfetto\GestioneCliente v0.2\bin\Debug\WindowsFormsApplication24.pdb
+C:\Users\Egeo\Desktop\Backup Perfetto\GestioneCliente v0.2\bin\Debug\System.Data.SQLite.dll
+C:\Users\Egeo\Desktop\Backup Perfetto\GestioneCliente v0.2\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Egeo\Desktop\Backup Perfetto\GestioneCliente v0.2\obj\Debug\WindowsFormsApplication24.email.resources
+C:\Users\Egeo\Desktop\Backup Perfetto\GestioneCliente v0.2\obj\Debug\WindowsFormsApplication24.Form1.resources
+C:\Users\Egeo\Desktop\Backup Perfetto\GestioneCliente v0.2\obj\Debug\WindowsFormsApplication24.Form2.resources
+C:\Users\Egeo\Desktop\Backup Perfetto\GestioneCliente v0.2\obj\Debug\WindowsFormsApplication24.Form3.resources
+C:\Users\Egeo\Desktop\Backup Perfetto\GestioneCliente v0.2\obj\Debug\WindowsFormsApplication24.Properties.Resources.resources
+C:\Users\Egeo\Desktop\Backup Perfetto\GestioneCliente v0.2\obj\Debug\WindowsFormsApplication24.csproj.GenerateResource.Cache
+C:\Users\Egeo\Desktop\Backup Perfetto\GestioneCliente v0.2\obj\Debug\WindowsFormsApplication24.exe
+C:\Users\Egeo\Desktop\Backup Perfetto\GestioneCliente v0.2\obj\Debug\WindowsFormsApplication24.pdb
+C:\Users\Egeo\Desktop\Backup Perfetto\GestioneCliente v0.2\obj\Debug\WindowsFormsApplication24.csprojResolveAssemblyReference.cache
+C:\Users\Egeo\Desktop\Funzionanti\Backup Perfetto\GestioneCliente v0.2\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\Egeo\Desktop\Funzionanti\Backup Perfetto\GestioneCliente v0.2\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\Egeo\Desktop\Funzionanti\Backup Perfetto\GestioneCliente v0.2\bin\Debug\WindowsFormsApplication24.exe.config
+C:\Users\Egeo\Desktop\Funzionanti\Backup Perfetto\GestioneCliente v0.2\bin\Debug\WindowsFormsApplication24.exe
+C:\Users\Egeo\Desktop\Funzionanti\Backup Perfetto\GestioneCliente v0.2\bin\Debug\WindowsFormsApplication24.pdb
+C:\Users\Egeo\Desktop\Funzionanti\Backup Perfetto\GestioneCliente v0.2\bin\Debug\System.Data.SQLite.dll
+C:\Users\Egeo\Desktop\Funzionanti\Backup Perfetto\GestioneCliente v0.2\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Egeo\Desktop\Funzionanti\Backup Perfetto\GestioneCliente v0.2\obj\Debug\WindowsFormsApplication24.email.resources
+C:\Users\Egeo\Desktop\Funzionanti\Backup Perfetto\GestioneCliente v0.2\obj\Debug\WindowsFormsApplication24.filtro.resources
+C:\Users\Egeo\Desktop\Funzionanti\Backup Perfetto\GestioneCliente v0.2\obj\Debug\WindowsFormsApplication24.Form1.resources
+C:\Users\Egeo\Desktop\Funzionanti\Backup Perfetto\GestioneCliente v0.2\obj\Debug\WindowsFormsApplication24.Form2.resources
+C:\Users\Egeo\Desktop\Funzionanti\Backup Perfetto\GestioneCliente v0.2\obj\Debug\WindowsFormsApplication24.Form3.resources
+C:\Users\Egeo\Desktop\Funzionanti\Backup Perfetto\GestioneCliente v0.2\obj\Debug\WindowsFormsApplication24.Properties.Resources.resources
+C:\Users\Egeo\Desktop\Funzionanti\Backup Perfetto\GestioneCliente v0.2\obj\Debug\WindowsFormsApplication24.csproj.GenerateResource.Cache
+C:\Users\Egeo\Desktop\Funzionanti\Backup Perfetto\GestioneCliente v0.2\obj\Debug\WindowsFormsApplication24.exe
+C:\Users\Egeo\Desktop\Funzionanti\Backup Perfetto\GestioneCliente v0.2\obj\Debug\WindowsFormsApplication24.pdb
+C:\Users\Egeo\Desktop\Funzionanti\Backup Perfetto\GestioneCliente v0.2\obj\Debug\WindowsFormsApplication24.csprojResolveAssemblyReference.cache
+C:\Users\Egeo\Documents\Visual Studio 2012\Projects\GestioneCliente v0.2\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\Egeo\Documents\Visual Studio 2012\Projects\GestioneCliente v0.2\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\Egeo\Documents\Visual Studio 2012\Projects\GestioneCliente v0.2\bin\Debug\WindowsFormsApplication24.exe.config
+C:\Users\Egeo\Documents\Visual Studio 2012\Projects\GestioneCliente v0.2\bin\Debug\WindowsFormsApplication24.exe
+C:\Users\Egeo\Documents\Visual Studio 2012\Projects\GestioneCliente v0.2\bin\Debug\WindowsFormsApplication24.pdb
+C:\Users\Egeo\Documents\Visual Studio 2012\Projects\GestioneCliente v0.2\bin\Debug\System.Data.SQLite.dll
+C:\Users\Egeo\Documents\Visual Studio 2012\Projects\GestioneCliente v0.2\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Egeo\Documents\Visual Studio 2012\Projects\GestioneCliente v0.2\obj\Debug\WindowsFormsApplication24.email.resources
+C:\Users\Egeo\Documents\Visual Studio 2012\Projects\GestioneCliente v0.2\obj\Debug\WindowsFormsApplication24.filtro.resources
+C:\Users\Egeo\Documents\Visual Studio 2012\Projects\GestioneCliente v0.2\obj\Debug\WindowsFormsApplication24.Form1.resources
+C:\Users\Egeo\Documents\Visual Studio 2012\Projects\GestioneCliente v0.2\obj\Debug\WindowsFormsApplication24.Form2.resources
+C:\Users\Egeo\Documents\Visual Studio 2012\Projects\GestioneCliente v0.2\obj\Debug\WindowsFormsApplication24.Form3.resources
+C:\Users\Egeo\Documents\Visual Studio 2012\Projects\GestioneCliente v0.2\obj\Debug\WindowsFormsApplication24.Properties.Resources.resources
+C:\Users\Egeo\Documents\Visual Studio 2012\Projects\GestioneCliente v0.2\obj\Debug\WindowsFormsApplication24.csproj.GenerateResource.Cache
+C:\Users\Egeo\Documents\Visual Studio 2012\Projects\GestioneCliente v0.2\obj\Debug\WindowsFormsApplication24.exe
+C:\Users\Egeo\Documents\Visual Studio 2012\Projects\GestioneCliente v0.2\obj\Debug\WindowsFormsApplication24.pdb
+C:\Users\Egeo\Documents\Visual Studio 2012\Projects\GestioneCliente v0.2\obj\Debug\WindowsFormsApplication24.csprojResolveAssemblyReference.cache
+C:\Users\Egeo\Desktop\da modificare\GestioneCliente v0.2\bin\Debug\WindowsFormsApplication24.exe.config
+C:\Users\Egeo\Desktop\da modificare\GestioneCliente v0.2\obj\Debug\WindowsFormsApplication24.exe
+C:\Users\Egeo\Desktop\da modificare\GestioneCliente v0.2\obj\Debug\WindowsFormsApplication24.pdb
+C:\Users\Egeo\Desktop\da modificare\GestioneCliente v0.2\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\Egeo\Desktop\da modificare\GestioneCliente v0.2\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\Egeo\Desktop\da modificare\GestioneCliente v0.2\bin\Debug\WindowsFormsApplication24.exe
+C:\Users\Egeo\Desktop\da modificare\GestioneCliente v0.2\bin\Debug\WindowsFormsApplication24.pdb
+C:\Users\Egeo\Desktop\da modificare\GestioneCliente v0.2\bin\Debug\System.Data.SQLite.dll
+C:\Users\Egeo\Desktop\da modificare\GestioneCliente v0.2\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Egeo\Desktop\da modificare\GestioneCliente v0.2\obj\Debug\WindowsFormsApplication24.csprojResolveAssemblyReference.cache
+C:\Users\Egeo\Desktop\da modificare\GestioneCliente v0.2\obj\Debug\WindowsFormsApplication24.email.resources
+C:\Users\Egeo\Desktop\da modificare\GestioneCliente v0.2\obj\Debug\WindowsFormsApplication24.filtro.resources
+C:\Users\Egeo\Desktop\da modificare\GestioneCliente v0.2\obj\Debug\WindowsFormsApplication24.Form1.resources
+C:\Users\Egeo\Desktop\da modificare\GestioneCliente v0.2\obj\Debug\WindowsFormsApplication24.Form2.resources
+C:\Users\Egeo\Desktop\da modificare\GestioneCliente v0.2\obj\Debug\WindowsFormsApplication24.Form3.resources
+C:\Users\Egeo\Desktop\da modificare\GestioneCliente v0.2\obj\Debug\WindowsFormsApplication24.Properties.Resources.resources
+C:\Users\Egeo\Desktop\da modificare\GestioneCliente v0.2\obj\Debug\WindowsFormsApplication24.csproj.GenerateResource.Cache
+C:\Users\Egeo\Desktop\Risolto_Problema\GestioneCliente v0.2\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\Egeo\Desktop\Risolto_Problema\GestioneCliente v0.2\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\Egeo\Desktop\Risolto_Problema\GestioneCliente v0.2\bin\Debug\WindowsFormsApplication24.exe.config
+C:\Users\Egeo\Desktop\Risolto_Problema\GestioneCliente v0.2\bin\Debug\WindowsFormsApplication24.exe
+C:\Users\Egeo\Desktop\Risolto_Problema\GestioneCliente v0.2\bin\Debug\WindowsFormsApplication24.pdb
+C:\Users\Egeo\Desktop\Risolto_Problema\GestioneCliente v0.2\bin\Debug\System.Data.SQLite.dll
+C:\Users\Egeo\Desktop\Risolto_Problema\GestioneCliente v0.2\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Egeo\Desktop\Risolto_Problema\GestioneCliente v0.2\obj\Debug\WindowsFormsApplication24.email.resources
+C:\Users\Egeo\Desktop\Risolto_Problema\GestioneCliente v0.2\obj\Debug\WindowsFormsApplication24.filtro.resources
+C:\Users\Egeo\Desktop\Risolto_Problema\GestioneCliente v0.2\obj\Debug\WindowsFormsApplication24.Form1.resources
+C:\Users\Egeo\Desktop\Risolto_Problema\GestioneCliente v0.2\obj\Debug\WindowsFormsApplication24.Form2.resources
+C:\Users\Egeo\Desktop\Risolto_Problema\GestioneCliente v0.2\obj\Debug\WindowsFormsApplication24.Form3.resources
+C:\Users\Egeo\Desktop\Risolto_Problema\GestioneCliente v0.2\obj\Debug\WindowsFormsApplication24.Properties.Resources.resources
+C:\Users\Egeo\Desktop\Risolto_Problema\GestioneCliente v0.2\obj\Debug\WindowsFormsApplication24.csproj.GenerateResource.Cache
+C:\Users\Egeo\Desktop\Risolto_Problema\GestioneCliente v0.2\obj\Debug\WindowsFormsApplication24.exe
+C:\Users\Egeo\Desktop\Risolto_Problema\GestioneCliente v0.2\obj\Debug\WindowsFormsApplication24.pdb
+C:\Users\Egeo\Desktop\Perfetto Worka\GestioneCliente v0.2\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\Egeo\Desktop\Perfetto Worka\GestioneCliente v0.2\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\Egeo\Desktop\Perfetto Worka\GestioneCliente v0.2\bin\Debug\WindowsFormsApplication24.exe.config
+C:\Users\Egeo\Desktop\Perfetto Worka\GestioneCliente v0.2\bin\Debug\WindowsFormsApplication24.exe
+C:\Users\Egeo\Desktop\Perfetto Worka\GestioneCliente v0.2\bin\Debug\WindowsFormsApplication24.pdb
+C:\Users\Egeo\Desktop\Perfetto Worka\GestioneCliente v0.2\bin\Debug\System.Data.SQLite.dll
+C:\Users\Egeo\Desktop\Perfetto Worka\GestioneCliente v0.2\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Egeo\Desktop\Perfetto Worka\GestioneCliente v0.2\obj\Debug\WindowsFormsApplication24.email.resources
+C:\Users\Egeo\Desktop\Perfetto Worka\GestioneCliente v0.2\obj\Debug\WindowsFormsApplication24.filtro.resources
+C:\Users\Egeo\Desktop\Perfetto Worka\GestioneCliente v0.2\obj\Debug\WindowsFormsApplication24.Form1.resources
+C:\Users\Egeo\Desktop\Perfetto Worka\GestioneCliente v0.2\obj\Debug\WindowsFormsApplication24.Form2.resources
+C:\Users\Egeo\Desktop\Perfetto Worka\GestioneCliente v0.2\obj\Debug\WindowsFormsApplication24.Form3.resources
+C:\Users\Egeo\Desktop\Perfetto Worka\GestioneCliente v0.2\obj\Debug\WindowsFormsApplication24.Properties.Resources.resources
+C:\Users\Egeo\Desktop\Perfetto Worka\GestioneCliente v0.2\obj\Debug\WindowsFormsApplication24.csproj.GenerateResource.Cache
+C:\Users\Egeo\Desktop\Perfetto Worka\GestioneCliente v0.2\obj\Debug\WindowsFormsApplication24.exe
+C:\Users\Egeo\Desktop\Perfetto Worka\GestioneCliente v0.2\obj\Debug\WindowsFormsApplication24.pdb
+C:\Users\Egeo\Desktop\Perfetto Worka\GestioneCliente v0.2b\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\Egeo\Desktop\Perfetto Worka\GestioneCliente v0.2b\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\Egeo\Desktop\Perfetto Worka\GestioneCliente v0.2b\bin\Debug\WindowsFormsApplication24.exe.config
+C:\Users\Egeo\Desktop\Perfetto Worka\GestioneCliente v0.2b\bin\Debug\WindowsFormsApplication24.exe
+C:\Users\Egeo\Desktop\Perfetto Worka\GestioneCliente v0.2b\bin\Debug\WindowsFormsApplication24.pdb
+C:\Users\Egeo\Desktop\Perfetto Worka\GestioneCliente v0.2b\bin\Debug\System.Data.SQLite.dll
+C:\Users\Egeo\Desktop\Perfetto Worka\GestioneCliente v0.2b\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Egeo\Desktop\Perfetto Worka\GestioneCliente v0.2b\obj\Debug\WindowsFormsApplication24.email.resources
+C:\Users\Egeo\Desktop\Perfetto Worka\GestioneCliente v0.2b\obj\Debug\WindowsFormsApplication24.filtro.resources
+C:\Users\Egeo\Desktop\Perfetto Worka\GestioneCliente v0.2b\obj\Debug\WindowsFormsApplication24.Form1.resources
+C:\Users\Egeo\Desktop\Perfetto Worka\GestioneCliente v0.2b\obj\Debug\WindowsFormsApplication24.Form2.resources
+C:\Users\Egeo\Desktop\Perfetto Worka\GestioneCliente v0.2b\obj\Debug\WindowsFormsApplication24.Form3.resources
+C:\Users\Egeo\Desktop\Perfetto Worka\GestioneCliente v0.2b\obj\Debug\WindowsFormsApplication24.Properties.Resources.resources
+C:\Users\Egeo\Desktop\Perfetto Worka\GestioneCliente v0.2b\obj\Debug\WindowsFormsApplication24.csproj.GenerateResource.Cache
+C:\Users\Egeo\Desktop\Perfetto Worka\GestioneCliente v0.2b\obj\Debug\WindowsFormsApplication24.exe
+C:\Users\Egeo\Desktop\Perfetto Worka\GestioneCliente v0.2b\obj\Debug\WindowsFormsApplication24.pdb
+C:\Users\Egeo\Desktop\Perfetto Worka\GestioneCliente v0.2b\obj\Debug\WindowsFormsApplication24.csprojResolveAssemblyReference.cache
+G:\Software\GestioneCliente v0.2b\bin\Debug\WindowsFormsApplication24.exe.config
+G:\Software\GestioneCliente v0.2b\obj\Debug\WindowsFormsApplication24.exe
+G:\Software\GestioneCliente v0.2b\obj\Debug\WindowsFormsApplication24.pdb
+G:\Software\GestioneCliente v0.2b\bin\Debug\x64\SQLite.Interop.dll
+G:\Software\GestioneCliente v0.2b\bin\Debug\x86\SQLite.Interop.dll
+G:\Software\GestioneCliente v0.2b\bin\Debug\WindowsFormsApplication24.exe
+G:\Software\GestioneCliente v0.2b\bin\Debug\WindowsFormsApplication24.pdb
+G:\Software\GestioneCliente v0.2b\bin\Debug\System.Data.SQLite.dll
+G:\Software\GestioneCliente v0.2b\bin\Debug\System.Data.SQLite.Linq.dll
+G:\Software\GestioneCliente v0.2b\obj\Debug\WindowsFormsApplication24.csprojResolveAssemblyReference.cache
+G:\Software\GestioneCliente v0.2b\obj\Debug\WindowsFormsApplication24.email.resources
+G:\Software\GestioneCliente v0.2b\obj\Debug\WindowsFormsApplication24.filtro.resources
+G:\Software\GestioneCliente v0.2b\obj\Debug\WindowsFormsApplication24.Form1.resources
+G:\Software\GestioneCliente v0.2b\obj\Debug\WindowsFormsApplication24.Form2.resources
+G:\Software\GestioneCliente v0.2b\obj\Debug\WindowsFormsApplication24.Form3.resources
+G:\Software\GestioneCliente v0.2b\obj\Debug\WindowsFormsApplication24.Properties.Resources.resources
+G:\Software\GestioneCliente v0.2b\obj\Debug\WindowsFormsApplication24.csproj.GenerateResource.Cache
+C:\Users\Egeo\Desktop\Perfetto Worka\GestioneCliente v0.3b\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\Egeo\Desktop\Perfetto Worka\GestioneCliente v0.3b\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\Egeo\Desktop\Perfetto Worka\GestioneCliente v0.3b\bin\Debug\WindowsFormsApplication24.exe.config
+C:\Users\Egeo\Desktop\Perfetto Worka\GestioneCliente v0.3b\bin\Debug\WindowsFormsApplication24.exe
+C:\Users\Egeo\Desktop\Perfetto Worka\GestioneCliente v0.3b\bin\Debug\WindowsFormsApplication24.pdb
+C:\Users\Egeo\Desktop\Perfetto Worka\GestioneCliente v0.3b\bin\Debug\System.Data.SQLite.dll
+C:\Users\Egeo\Desktop\Perfetto Worka\GestioneCliente v0.3b\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Egeo\Desktop\Perfetto Worka\GestioneCliente v0.3b\obj\Debug\WindowsFormsApplication24.csprojResolveAssemblyReference.cache
+C:\Users\Egeo\Desktop\Perfetto Worka\GestioneCliente v0.3b\obj\Debug\WindowsFormsApplication24.email.resources
+C:\Users\Egeo\Desktop\Perfetto Worka\GestioneCliente v0.3b\obj\Debug\WindowsFormsApplication24.filtro.resources
+C:\Users\Egeo\Desktop\Perfetto Worka\GestioneCliente v0.3b\obj\Debug\WindowsFormsApplication24.Form1.resources
+C:\Users\Egeo\Desktop\Perfetto Worka\GestioneCliente v0.3b\obj\Debug\WindowsFormsApplication24.Form2.resources
+C:\Users\Egeo\Desktop\Perfetto Worka\GestioneCliente v0.3b\obj\Debug\WindowsFormsApplication24.Form3.resources
+C:\Users\Egeo\Desktop\Perfetto Worka\GestioneCliente v0.3b\obj\Debug\WindowsFormsApplication24.Properties.Resources.resources
+C:\Users\Egeo\Desktop\Perfetto Worka\GestioneCliente v0.3b\obj\Debug\WindowsFormsApplication24.csproj.GenerateResource.Cache
+C:\Users\Egeo\Desktop\Perfetto Worka\GestioneCliente v0.3b\obj\Debug\WindowsFormsApplication24.exe
+C:\Users\Egeo\Desktop\Perfetto Worka\GestioneCliente v0.3b\obj\Debug\WindowsFormsApplication24.pdb
+C:\Users\Egeo\Desktop\Working Pompeo\GestioneCliente v0.3b\bin\Debug\WindowsFormsApplication24.exe.config
+C:\Users\Egeo\Desktop\Working Pompeo\GestioneCliente v0.3b\obj\Debug\WindowsFormsApplication24.exe
+C:\Users\Egeo\Desktop\Working Pompeo\GestioneCliente v0.3b\obj\Debug\WindowsFormsApplication24.pdb
+C:\Users\Egeo\Desktop\Working Pompeo\GestioneCliente v0.3b\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\Egeo\Desktop\Working Pompeo\GestioneCliente v0.3b\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\Egeo\Desktop\Working Pompeo\GestioneCliente v0.3b\bin\Debug\WindowsFormsApplication24.exe
+C:\Users\Egeo\Desktop\Working Pompeo\GestioneCliente v0.3b\bin\Debug\WindowsFormsApplication24.pdb
+C:\Users\Egeo\Desktop\Working Pompeo\GestioneCliente v0.3b\bin\Debug\System.Data.SQLite.dll
+C:\Users\Egeo\Desktop\Working Pompeo\GestioneCliente v0.3b\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Egeo\Desktop\Working Pompeo\GestioneCliente v0.3b\obj\Debug\WindowsFormsApplication24.csprojResolveAssemblyReference.cache
+C:\Users\Egeo\Desktop\Working Pompeo\GestioneCliente v0.3b\obj\Debug\WindowsFormsApplication24.email.resources
+C:\Users\Egeo\Desktop\Working Pompeo\GestioneCliente v0.3b\obj\Debug\WindowsFormsApplication24.filtro.resources
+C:\Users\Egeo\Desktop\Working Pompeo\GestioneCliente v0.3b\obj\Debug\WindowsFormsApplication24.Form1.resources
+C:\Users\Egeo\Desktop\Working Pompeo\GestioneCliente v0.3b\obj\Debug\WindowsFormsApplication24.Form2.resources
+C:\Users\Egeo\Desktop\Working Pompeo\GestioneCliente v0.3b\obj\Debug\WindowsFormsApplication24.Form3.resources
+C:\Users\Egeo\Desktop\Working Pompeo\GestioneCliente v0.3b\obj\Debug\WindowsFormsApplication24.Properties.Resources.resources
+C:\Users\Egeo\Desktop\Working Pompeo\GestioneCliente v0.3b\obj\Debug\WindowsFormsApplication24.csproj.GenerateResource.Cache
+C:\Users\egeo\Desktop\GestioneCliente v0.3b\bin\Debug\WindowsFormsApplication24.exe.config
+C:\Users\egeo\Desktop\GestioneCliente v0.3b\obj\Debug\WindowsFormsApplication24.exe
+C:\Users\egeo\Desktop\GestioneCliente v0.3b\obj\Debug\WindowsFormsApplication24.pdb
+C:\Users\egeo\Desktop\GestioneCliente v0.3b\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\egeo\Desktop\GestioneCliente v0.3b\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\egeo\Desktop\GestioneCliente v0.3b\bin\Debug\WindowsFormsApplication24.exe
+C:\Users\egeo\Desktop\GestioneCliente v0.3b\bin\Debug\WindowsFormsApplication24.pdb
+C:\Users\egeo\Desktop\GestioneCliente v0.3b\bin\Debug\System.Data.SQLite.dll
+C:\Users\egeo\Desktop\GestioneCliente v0.3b\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\egeo\Desktop\GestioneCliente v0.3b\obj\Debug\WindowsFormsApplication24.csprojResolveAssemblyReference.cache
+C:\Users\egeo\Desktop\GestioneCliente v0.3b\obj\Debug\WindowsFormsApplication24.email.resources
+C:\Users\egeo\Desktop\GestioneCliente v0.3b\obj\Debug\WindowsFormsApplication24.filtro.resources
+C:\Users\egeo\Desktop\GestioneCliente v0.3b\obj\Debug\WindowsFormsApplication24.Form1.resources
+C:\Users\egeo\Desktop\GestioneCliente v0.3b\obj\Debug\WindowsFormsApplication24.Form2.resources
+C:\Users\egeo\Desktop\GestioneCliente v0.3b\obj\Debug\WindowsFormsApplication24.Form3.resources
+C:\Users\egeo\Desktop\GestioneCliente v0.3b\obj\Debug\WindowsFormsApplication24.Properties.Resources.resources
+C:\Users\egeo\Desktop\GestioneCliente v0.3b\obj\Debug\WindowsFormsApplication24.csproj.GenerateResource.Cache
+C:\Users\egeom\Desktop\GestioneCliente v0.3b\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\egeom\Desktop\GestioneCliente v0.3b\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\egeom\Desktop\GestioneCliente v0.3b\bin\Debug\WindowsFormsApplication24.exe.config
+C:\Users\egeom\Desktop\GestioneCliente v0.3b\bin\Debug\WindowsFormsApplication24.exe
+C:\Users\egeom\Desktop\GestioneCliente v0.3b\bin\Debug\WindowsFormsApplication24.pdb
+C:\Users\egeom\Desktop\GestioneCliente v0.3b\bin\Debug\System.Data.SQLite.dll
+C:\Users\egeom\Desktop\GestioneCliente v0.3b\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\egeom\Desktop\GestioneCliente v0.3b\obj\Debug\WindowsFormsApplication24.csprojResolveAssemblyReference.cache
+C:\Users\egeom\Desktop\GestioneCliente v0.3b\obj\Debug\WindowsFormsApplication24.email.resources
+C:\Users\egeom\Desktop\GestioneCliente v0.3b\obj\Debug\WindowsFormsApplication24.filtro.resources
+C:\Users\egeom\Desktop\GestioneCliente v0.3b\obj\Debug\WindowsFormsApplication24.Form1.resources
+C:\Users\egeom\Desktop\GestioneCliente v0.3b\obj\Debug\WindowsFormsApplication24.Form2.resources
+C:\Users\egeom\Desktop\GestioneCliente v0.3b\obj\Debug\WindowsFormsApplication24.Form3.resources
+C:\Users\egeom\Desktop\GestioneCliente v0.3b\obj\Debug\WindowsFormsApplication24.Properties.Resources.resources
+C:\Users\egeom\Desktop\GestioneCliente v0.3b\obj\Debug\WindowsFormsApplication24.csproj.GenerateResource.Cache
+C:\Users\egeom\Desktop\GestioneCliente v0.3b\obj\Debug\WindowsFormsApplication24.exe
+C:\Users\egeom\Desktop\GestioneCliente v0.3b\obj\Debug\WindowsFormsApplication24.pdb

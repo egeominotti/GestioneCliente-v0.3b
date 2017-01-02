@@ -1,0 +1,16 @@
+C:\Users\egeom\Desktop\GestioneCliente v0.3b\bin\Release\x64\SQLite.Interop.dll
+C:\Users\egeom\Desktop\GestioneCliente v0.3b\bin\Release\x86\SQLite.Interop.dll
+C:\Users\egeom\Desktop\GestioneCliente v0.3b\bin\Release\WindowsFormsApplication24.exe.config
+C:\Users\egeom\Desktop\GestioneCliente v0.3b\bin\Release\WindowsFormsApplication24.exe
+C:\Users\egeom\Desktop\GestioneCliente v0.3b\bin\Release\WindowsFormsApplication24.pdb
+C:\Users\egeom\Desktop\GestioneCliente v0.3b\bin\Release\System.Data.SQLite.dll
+C:\Users\egeom\Desktop\GestioneCliente v0.3b\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\egeom\Desktop\GestioneCliente v0.3b\obj\Release\WindowsFormsApplication24.email.resources
+C:\Users\egeom\Desktop\GestioneCliente v0.3b\obj\Release\WindowsFormsApplication24.filtro.resources
+C:\Users\egeom\Desktop\GestioneCliente v0.3b\obj\Release\WindowsFormsApplication24.Form1.resources
+C:\Users\egeom\Desktop\GestioneCliente v0.3b\obj\Release\WindowsFormsApplication24.Form2.resources
+C:\Users\egeom\Desktop\GestioneCliente v0.3b\obj\Release\WindowsFormsApplication24.Form3.resources
+C:\Users\egeom\Desktop\GestioneCliente v0.3b\obj\Release\WindowsFormsApplication24.Properties.Resources.resources
+C:\Users\egeom\Desktop\GestioneCliente v0.3b\obj\Release\WindowsFormsApplication24.csproj.GenerateResource.Cache
+C:\Users\egeom\Desktop\GestioneCliente v0.3b\obj\Release\WindowsFormsApplication24.exe
+C:\Users\egeom\Desktop\GestioneCliente v0.3b\obj\Release\WindowsFormsApplication24.pdb
